@@ -1,0 +1,77 @@
+* { /* Limpando todas as margens e paddings padrões */
+    margin: 0;
+    padding: 0; /* O asterisco quer dizer todos os elementos */
+}
+
+
+
+body{
+    background-color: rgba(226, 224, 224, 0.432);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+}
+
+.corlogo{
+    color: rgba(23, 190, 23, 0.795);
+}
+
+
+
+#logotipo{
+    float: left;
+     
+
+}
+
+#linkscabecalho{  
+    float: right;
+    padding: 10px;
+    
+
+}
+
+
+a{
+    text-decoration: none;
+    color: gray;
+    padding: 5px 10px;
+
+}
+
+#cabecalho{
+    width: 720px;
+    margin: 0 auto;
+}
+
+#navegacao {
+	background: #fff;
+	border-bottom: 1px solid #d8d8d8;
+    height: 50px;
+    
+}
+
+#principal{
+    width: 720px;
+    margin: 52px auto;
+}
+
+#foto-postagem{
+    float: left;
+    margin: 0 10px 5px 0;
+}
+
+#postagem{
+    border: 1px solid rgb(62, 189, 72);
+}
+
+#data-postagem{
+    border-bottom: 1px solid black;
+    margin-top: 5px;
+}
+
+p{
+    margin: 15px;
+}
+
+
+
